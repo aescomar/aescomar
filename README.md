@@ -1,6 +1,6 @@
 ### Hi everyone. My name is ANGEL ESCOBEDO 👋
 
-- 🔭 I like working on Javascript, Angular, Sql Server, C#, Oracle ...
+- 🔭 I like working on n8n, Phyton, Javascript, Angular, Sql Server, C#, Oracle ...
 <!--
 **aescomar/aescomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
